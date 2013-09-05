@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url('../fonts/ubuntu/ubuntu-r-webfont.eot');
+  src: url('../fonts/ubuntu/ubuntu-r-webfont.eot?#iefix') format('eot'), url('../fonts/ubuntu/ubuntu-r-webfont.woff') format('woff'), url('../fonts/ubuntu/ubuntu-r-webfont.ttf') format('truetype'), url('../fonts/ubuntu/ubuntu-r-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ubuntu Light";
+  src: url('../fonts/ubuntu/ubuntu-l-webfont.eot');
+  src: url('../fonts/ubuntu/ubuntu-l-webfont.eot?#iefix') format('eot'), url('../fonts/ubuntu/ubuntu-l-webfont.woff') format('woff'), url('../fonts/ubuntu/ubuntu-l-webfont.ttf') format('truetype'), url('../fonts/ubuntu/ubuntu-l-webfont.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
